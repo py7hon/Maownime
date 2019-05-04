@@ -14,16 +14,16 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "nuxt": "^1.0.0"
+    "axios": "0.18.0",
+    "nuxt": "1.4.5"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.15.0",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
-    "eslint-plugin-vue": "^4.0.0",
-    "node-sass": "^4.9.3",
-    "sass-loader": "^7.1.0"
+    "babel-eslint": "8.2.6",
+    "eslint": "4.19.1",
+    "eslint-friendly-formatter": "3.0.0",
+    "eslint-loader": "1.9.0",
+    "eslint-plugin-vue": "4.7.1",
+    "node-sass": "4.12.0",
+    "sass-loader": "7.1.0"
   }
 }
