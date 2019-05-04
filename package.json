@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "axios": "0.18.0",
-    "nuxt": "1.4.5"
+    "nuxt": "2.6.3"
   },
   "devDependencies": {
     "babel-eslint": "10.0.1",
